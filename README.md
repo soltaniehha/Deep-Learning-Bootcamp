@@ -8,7 +8,7 @@ This repository can be accessed via this short link:
 
 # [bit.ly/DL-Bootcamp](https://bit.ly/DL-Bootcamp)
 
-## Textbook
+## Textbooks
 * [Deep Learning with Python (2nd edition)](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 * [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas
 
